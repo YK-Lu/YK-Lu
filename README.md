@@ -14,7 +14,8 @@ With a foundational background in business management and financial services, I 
 
 - **Version Control**: Acquainted with using GitHub for version control and Docker for containerization basics.
 
-- **Collaboration & Communication**: Recognized for the ability to collaborate within study groups and projects 🤝, sharing ideas and communicating effectively 🗣️.
+- **Collaboration & Communication**: Demonstrated ability to work across different functional teams 🤝 to foster innovation and develop solutions; effective in facilitating team collaboration and communication 🗣️.
+
 
 
 
