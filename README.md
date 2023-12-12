@@ -18,3 +18,4 @@ With over a decade of experience in business management and financial services, 
 
 - **Collaboration & Communication**: Demonstrated ability to work across different functional teams to foster innovation and develop solutions; effective in facilitating team collaboration and communication.
 
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=YK-Lu&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
